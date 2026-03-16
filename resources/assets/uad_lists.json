@@ -15790,11 +15790,11 @@
   },
   "jp.co.omronsoft.openwnn": {
     "list": "Misc",
-    "description": "Japanese keyboard/IME (don't know why it's pre-installed on US/european devices)\nNote : IME = input method editor\n",
+    "description": "Japanese keyboard/IME required to unlock some devices\nNote : IME = input method editor\n",
     "dependencies": [],
     "neededBy": [],
     "labels": [],
-    "removal": "Recommended"
+    "removal": "Unsafe"
   },
   "jp.gocro.smartnews.android": {
     "list": "Misc",
